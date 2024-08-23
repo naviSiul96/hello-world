@@ -2,7 +2,7 @@
   <div class="container">
     <h1>New user Register for DevOps Learning from Ivanovich repository and create docker</h1>
     <p>Please fill in this form to create an account.</p>
-    <p>New changes</p>
+    <p>New changes again</p>
     <hr>
 
     <label for="Name"><b>Enter Name</b></label>
